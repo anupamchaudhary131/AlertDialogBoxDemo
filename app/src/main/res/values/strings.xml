@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AlertDialogBoxDemo</string>
+    <string name="btnText">Custom Dialog Box</string>
+</resources>
